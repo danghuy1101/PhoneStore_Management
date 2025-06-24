@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\PhoneStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A366FEFC-C1CB-4707-948F-F9A10A9674DE}|PhoneStore\\PhoneStore.csproj|c:\\users\\dell\\downloads\\phonestore\\phonestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A366FEFC-C1CB-4707-948F-F9A10A9674DE}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\PhoneStore\\PhoneStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\PhoneStore\\PhoneStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PhoneStore\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwJAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:55:42.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
